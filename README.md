@@ -1,2 +1,2 @@
 # compare-KANs
-This to compare the KANs
+This repository use to compare the KANs with other models
